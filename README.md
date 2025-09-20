@@ -1,3 +1,3 @@
 # student-demo
 This is my first Git Repository.
-author - SURRIYA
+author - SURRIYA miandad
